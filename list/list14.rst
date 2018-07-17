@@ -1,0 +1,60 @@
+小乘论
+======
+
+.. toctree:: 
+   :maxdepth: 1 
+   :caption: Contents: 
+
+   四谛论 <list14/sutra1254.rst>
+   辟支佛因缘论 <list14/sutra1255.rst>
+   阿毗达磨大毗婆沙论（第001卷～第020卷） <list14/sutra1256-01.rst>
+   阿毗达磨大毗婆沙论（第021卷～第040卷） <list14/sutra1256-02.rst>
+   阿毗达磨大毗婆沙论（第041卷～第060卷） <list14/sutra1256-03.rst>
+   阿毗达磨大毗婆沙论（第061卷～第080卷） <list14/sutra1256-04.rst>
+   阿毗达磨大毗婆沙论（第081卷～第100卷） <list14/sutra1256-05.rst>
+   阿毗达磨大毗婆沙论（第101卷～第120卷） <list14/sutra1256-06.rst>
+   阿毗达磨大毗婆沙论（第121卷～第140卷） <list14/sutra1256-07.rst>
+   阿毗达磨大毗婆沙论（第141卷～第160卷） <list14/sutra1256-08.rst>
+   阿毗达磨大毗婆沙论（第161卷～第180卷） <list14/sutra1256-09.rst>
+   阿毗达磨大毗婆沙论（第181卷～第200卷） <list14/sutra1256-10.rst>
+   阿毗昙毗婆沙论（第01卷～第20卷） <list14/sutra1257-01.rst>
+   阿毗昙毗婆沙论（第21卷～第40卷） <list14/sutra1257-02.rst>
+   阿毗昙毗婆沙论（第41卷～第60卷） <list14/sutra1257-03.rst>
+   阿毗昙毗婆沙论（第61卷～第82卷） <list14/sutra1257-04.rst>
+   阿毗达磨顺正理论（第01卷～第20卷） <list14/sutra1258-01.rst>
+   阿毗达磨顺正理论（第21卷～第40卷） <list14/sutra1258-02.rst>
+   阿毗达磨顺正理论（第41卷～第60卷） <list14/sutra1258-03.rst>
+   阿毗达磨顺正理论（第61卷～第80卷） <list14/sutra1258-04.rst>
+   阿毗达磨藏显宗论（第01卷～第20卷） <list14/sutra1259-01.rst>
+   阿毗达磨藏显宗论（第21卷～第40卷） <list14/sutra1259-02.rst>
+   阿毗达磨俱舍论 <list14/sutra1260.rst>
+   舍利弗阿毗昙论 <list14/sutra1261.rst>
+   阿毗达磨俱舍释论 <list14/sutra1262.rst>
+   阿毗达磨俱舍释论本颂 <list14/sutra1263.rst>
+   三法度论 <list14/sutra1264.rst>
+   三弥底部论 <list14/sutra1265.rst>
+   阿毗昙八犍度论 <list14/sutra1266.rst>
+   成实论 <list14/sutra1267.rst>
+   阿毗达磨发智论 <list14/sutra1268.rst>
+   阿毗达磨集异门足论 <list14/sutra1269.rst>
+   阿毗达磨品类足论 <list14/sutra1270.rst>
+   阿毗昙甘露味论 <list14/sutra1271.rst>
+   鞞婆沙论 <list14/sutra1272.rst>
+   随相论 <list14/sutra1273.rst>
+   阿毗达磨识身足论 <list14/sutra1274.rst>
+   阿毗达磨界身足论 <list14/sutra1275.rst>
+   五事毗婆沙论 <list14/sutra1276.rst>
+   十八部论 <list14/sutra1277.rst>
+   部执异论 <list14/sutra1278.rst>
+   异部宗轮论 <list14/sutra1279.rst>
+   杂阿毗昙心论 <list14/sutra1280.rst>
+   阿毗昙心论 <list14/sutra1281.rst>
+   尊婆须蜜菩萨所集论 <list14/sutra1282.rst>
+   分别功德论 <list14/sutra1283.rst>
+   入阿毗达磨论 <list14/sutra1284.rst>
+   众事分阿毗昙论 <list14/sutra1285.rst>
+   解脱道论 <list14/sutra1286.rst>
+   法胜阿毗昙心论 <list14/sutra1287.rst>
+   胜宗十句义论 <list14/sutra1288.rst>
+   阿毗达磨法蕴足论 <list14/sutra1289.rst>
+   立世阿毗昙论 <list14/sutra1290.rst>

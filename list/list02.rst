@@ -1,0 +1,55 @@
+大乘宝积部
+==========
+
+.. toctree:: 
+   :maxdepth: 1 
+   :caption: Contents: 
+
+   大宝积经（第01卷～第10卷） <list02/sutra0020-01.rst>
+   大宝积经（第11卷～第20卷） <list02/sutra0020-02.rst>
+   大宝积经（第21卷～第30卷） <list02/sutra0020-03.rst>
+   大宝积经（第31卷～第40卷） <list02/sutra0020-04.rst>
+   大宝积经（第41卷～第50卷） <list02/sutra0020-05.rst>
+   大宝积经（第51卷～第60卷） <list02/sutra0020-06.rst>
+   大宝积经（第61卷～第70卷） <list02/sutra0020-07.rst>
+   大宝积经（第71卷～第80卷） <list02/sutra0020-08.rst>
+   大宝积经（第81卷～第90卷） <list02/sutra0020-09.rst>
+   大宝积经（第91卷～第100卷） <list02/sutra0020-10.rst>
+   大宝积经（第101卷～第110卷） <list02/sutra0020-11.rst>
+   大宝积经（第111卷～第120卷） <list02/sutra0020-12.rst>
+   大方广三戒经 <list02/sutra0021.rst>
+   佛说无量清净平等觉经 <list02/sutra0022.rst>
+   佛说阿弥陀经二卷 <list02/sutra0023.rst>
+   佛说无量寿经 <list02/sutra0024.rst>
+   佛说阿閦佛国经 <list02/sutra0025.rst>
+   佛说大乘十法经 <list02/sutra0026.rst>
+   佛说普门品经 <list02/sutra0027.rst>
+   文殊师利佛土严净经 <list02/sutra0028.rst>
+   佛说胞胎经 <list02/sutra0029.rst>
+   佛说法镜经 <list02/sutra0030.rst>
+   郁迦罗越问菩萨行经 <list02/sutra0031.rst>
+   幻士仁贤经 <list02/sutra0032.rst>
+   佛说决定毗尼经 <list02/sutra0033.rst>
+   发觉净心经 <list02/sutra0034.rst>
+   佛说优填王经 <list02/sutra0035.rst>
+   佛说须摩提经 <list02/sutra0036.rst>
+   佛说须摩提菩萨经 <list02/sutra0037.rst>
+   佛说离垢施女经 <list02/sutra0038.rst>
+   佛说阿阇世王女阿术达菩萨经 <list02/sutra0039.rst>
+   佛说须赖经 <list02/sutra0040.rst>
+   得无垢女经 <list02/sutra0041.rst>
+   文殊师利所说不思议佛境界经 <list02/sutra0042.rst>
+   佛说如幻三昧经 <list02/sutra0043.rst>
+   善住意天子所问经 <list02/sutra0044.rst>
+   太子刷护经 <list02/sutra0045.rst>
+   太子和休经 <list02/sutra0046.rst>
+   入法界体性经 <list02/sutra0047.rst>
+   慧上菩萨问大善权经 <list02/sutra0048.rst>
+   大乘显识经 <list02/sutra0049.rst>
+   佛说大乘方等要慧经 <list02/sutra0050.rst>
+   弥勒菩萨所问本愿经 <list02/sutra0051.rst>
+   度一切诸佛境界智严经 <list02/sutra0052.rst>
+   佛遗日摩尼宝经 <list02/sutra0053.rst>
+   佛说摩诃衍宝严经 <list02/sutra0054.rst>
+   胜鬘师子吼一乘大方便方广经 <list02/sutra0055.rst>
+   毗耶娑问经 <list02/sutra0056.rst>
