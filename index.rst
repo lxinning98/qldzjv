@@ -3,7 +3,7 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
+   :caption: 龙藏各部: 
 
    大乘般若部 <list/list01.rst>
    大乘宝积部 <list/list02.rst>
