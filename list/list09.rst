@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    正法念处经（第01卷～第10卷） <list09/sutra0675-01.rst>
    正法念处经（第11卷～第20卷） <list09/sutra0675-02.rst>

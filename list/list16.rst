@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    出曜经 <list16/sutra1314.rst>
    贤愚因缘经 <list16/sutra1315.rst>

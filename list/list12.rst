@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    佛阿毗昙经 <list12/sutra1102.rst>
    解脱戒本经 <list12/sutra1103.rst>

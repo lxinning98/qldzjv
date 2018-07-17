@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    中阿含经（第01卷～第10卷） <list08/sutra0538-01.rst>
    中阿含经（第11卷～第20卷） <list08/sutra0538-02.rst>

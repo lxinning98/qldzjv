@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    大方等大集经（第01卷～第10卷） <list03/sutra0057-01.rst>
    大方等大集经（第11卷～第20卷） <list03/sutra0057-02.rst>

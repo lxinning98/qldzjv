@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    金光明最胜王经 <list06/sutra0122.rst>
    金光明经 <list06/sutra0123.rst>

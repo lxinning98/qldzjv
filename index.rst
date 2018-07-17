@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: 龙藏各部: 
 
    大乘般若部 <list/list01.rst>
    大乘宝积部 <list/list02.rst>
@@ -23,9 +22,3 @@
    西土圣贤撰集 <list/list16.rst>
    此土著述 <list/list17.rst>
 
-Indices and tables 
-==================
-
-* :ref:`genindex` 
-* :ref:`modindex` 
-* :ref:`search` 

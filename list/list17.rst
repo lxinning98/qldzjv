@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    维摩诘所说经注 <list17/sutra1461.rst>
    晋僧肇法师宝藏论 <list17/sutra1462.rst>

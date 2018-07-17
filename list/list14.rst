@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    四谛论 <list14/sutra1254.rst>
    辟支佛因缘论 <list14/sutra1255.rst>

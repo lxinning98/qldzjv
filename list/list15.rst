@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    大乘集菩萨学论 <list15/sutra1291.rst>
    大宗地玄文本论 <list15/sutra1292.rst>

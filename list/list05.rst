@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    大般涅槃经（第01卷～第10卷） <list05/sutra0109-01.rst>
    大般涅槃经（第11卷～第20卷） <list05/sutra0109-02.rst>

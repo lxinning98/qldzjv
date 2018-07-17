@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    佛说菩萨内戒经 <list11/sutra1077.rst>
    菩萨优婆塞五戒威仪经 <list11/sutra1078.rst>

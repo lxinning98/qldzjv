@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    佛说大乘庄严宝王经 <list10/sutra0777.rst>
    分别善恶报应经 <list10/sutra0778.rst>

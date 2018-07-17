@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    大方广佛华严经（第01卷～第10卷） <list04/sutra0083-01.rst>
    大方广佛华严经（第11卷～第20卷） <list04/sutra0083-02.rst>

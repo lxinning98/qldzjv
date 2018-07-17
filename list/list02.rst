@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    大宝积经（第01卷～第10卷） <list02/sutra0020-01.rst>
    大宝积经（第11卷～第20卷） <list02/sutra0020-02.rst>

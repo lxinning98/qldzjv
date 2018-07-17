@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    大清三藏圣教目录 <list01/sutra0000.rst>
    大般若波罗蜜多经（第001卷～第010卷） <list01/sutra0001-01.rst>

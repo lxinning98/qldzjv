@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    金刚般若波罗蜜经论（无著造） <list13/sutra1161.rst>
    金刚般若波罗蜜经论（天亲造） <list13/sutra1162.rst>

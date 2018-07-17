@@ -3,7 +3,6 @@
 
 .. toctree:: 
    :maxdepth: 1 
-   :caption: Contents: 
 
    十住断结经 <list07/sutra0372.rst>
    菩萨道树经 <list07/sutra0373.rst>
